@@ -1,0 +1,19 @@
+set_io   clk               21
+set_io   hsync             37
+set_io   vsync             39
+set_io   red_monitor       38
+set_io   green_monitor     41
+set_io   blue_monitor      43
+set_io   inc_row           10
+set_io   inc_byte          11
+
+# Debug LEDs.
+set_io   disp[0]           95
+set_io   disp[1]           96
+set_io   disp[2]           97
+set_io   disp[3]           98
+set_io   disp[4]           99
+set_io   disp[5]           101
+set_io   disp[6]           102
+set_io   disp[7]           104
+
