@@ -34,7 +34,7 @@
           "id": "d952dea6-c3da-4706-a975-37baa124da5e",
           "type": "basic.output",
           "data": {
-            "name": "VGA_red",
+            "name": "VGA_green",
             "pins": [
               {
                 "index": "0",
@@ -53,7 +53,7 @@
           "id": "446ffc1b-876a-47d7-938a-6b38541c4e3d",
           "type": "basic.output",
           "data": {
-            "name": "VGA_red",
+            "name": "VGA_blue",
             "pins": [
               {
                 "index": "0",
@@ -92,7 +92,7 @@
           "id": "4f18da48-119a-4e8f-8418-05e5754287be",
           "type": "basic.output",
           "data": {
-            "name": "VGA_red",
+            "name": "hsync",
             "pins": [
               {
                 "index": "0",
@@ -111,7 +111,7 @@
           "id": "e17391be-c15b-4b1c-bfd1-7b9f83784508",
           "type": "basic.output",
           "data": {
-            "name": "VGA_red",
+            "name": "vsync",
             "pins": [
               {
                 "index": "0",
